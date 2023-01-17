@@ -1,6 +1,8 @@
 title;description;url;image
 Todo App;A distraction-free web app to help you focus on creating and completing tasks.;https://github.com/RancyKaur/ToDo_WebApp;1.png
 Portfolio Website;A website built entirely in Python to showcase coding projects and apps. Current website you are on :) ;https://github.com/RancyKaur/Portfolio-App;2.png
+Power Platform Projects; SharePoint, PowerApps and Power Automate based platform projects for automating project lifecycle, smooth case transfer between different delivey partners, enable frontline engineers etc;https://github.com/RancyKaur/;22.png
+Internal Organization Intranet site; Created a javascript/Azure SQL based website hosted on Azure WebApps as single reference point for interal organization with more than 300 FTEs;https://github.com/RancyKaur/;23.png
 Problem Solving; Contains the problems that I have been solving from various sources like leetcode, hankerrank; https://github.com/RancyKaur/SolvedProblems.git;21.png
 PDF Templates;A work-inprogress script that generates PDF templates of multiple pages given some predefined guidelines.;https://github.com/RancyKaur;3.png
 PDF Invoices;A work-inprogress script that reads invoice records from Excel files and automatically generates PDF invoices.;https://github.com/RancyKaur;4.png
